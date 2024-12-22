@@ -162,6 +162,6 @@ st.sidebar.markdown("")
 st.sidebar.markdown("---")
 st.sidebar.markdown(
     """
-    **Built with ❤️ by Kelompok 8**  
+    **Built with ❤️ by Kelompok 9**  
     """
 )
